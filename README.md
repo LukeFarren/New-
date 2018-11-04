@@ -12,7 +12,7 @@ Jury’s Inn, Clarendon Rd, Watford WD17 1JA
 
 ## Event schedule:
 
-  
+!schedule](https://github.com/LukeFarren/Professional-Practice.-/blob/master/Schedule.png)
 
 ## Event resources:
 
