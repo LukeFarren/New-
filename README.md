@@ -80,6 +80,6 @@ Collect catering from Costco, purchase travel tickets etc.
 
 ## **Gantt Chart:**
 
-  
+ [enter link description here](https://github.com/LukeFarren/Professional-Practice.-/blob/master/Progress%20Gantt%20Chart.xlsx) required to design and plan a training event which involved   
 
 ![](https://lh4.googleusercontent.com/r-C7qtPYF0TWnEDFBZ6-UlFHd8pvo9vnKqnKC-FdOIWpIqvKsgi3g26Ifaf7DpyHpHb-R1MgQ1RNHHNyJBmLbpDhcsRVYylvoED_dUAA738aCV4XoElFM31S_Qk8naRfIFRcoL5E)
