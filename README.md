@@ -15,7 +15,7 @@ Monday 5th November 2018 at 9am - 12pm
 ## **Event schedule:**
 
   
-
+![Event Schedule](https://github.com/LukeFarren/Professional-Practice.-/blob/master/Schedule.png)
 
 
 ## Event resources:
